@@ -1,0 +1,199 @@
+body {background-color:	#5F9EA0;}
+#para{
+  color:blue;
+  text-align:center;
+  padding-top: -10px;
+  font-family:Aleo;
+}
+
+#login{
+	text-align:center;
+}
+
+
+
+#succ{
+	position: relative;
+	top: 130px;
+	color:green;
+	text-align:left;
+}
+#succ2{
+	position: relative;
+	top: 120px;
+	color:red;
+	left:400px;
+}
+#succ3{
+  position: fixed;
+  top: 200px;
+  color:green;
+  text-align:left;
+}
+#para1{
+  position: relative;
+  top: -10px;
+  color:black;
+  left:450px;
+}
+img.propic1{
+    position: relative;
+    top: -40px;
+    right:0;
+    left:0px;
+    width:150px ;
+    height:150px;
+    border: 3px solid #73AD21;
+}
+img.propic{
+	position: relative;
+	top: -80px;
+    right:0;
+    left:0px;
+  	width:150px ;
+  	height:150px;
+    border: 3px solid #73AD21;
+}
+div.wronguser{
+	position: relative;
+	color:red;
+	top: 100px;
+    right:0;
+    background-color:lightblue;
+    text-align:center;
+    left:350px;
+  	width:400px ;
+  	height:40px;
+    border: 4px solid #73AD21;
+}
+div.wrongpass{
+	position: relative;
+	color:red;
+	top: 100px;
+    right:0;
+    background-color:lightblue;
+    text-align:center;
+    left:350px;
+  	width:400px ;
+  	height:40px;
+    border: 4px solid #73AD21;
+}
+a.button{
+	position: relative;
+	top: 160px;
+    right:0;
+    text-align:center;
+    left:500px;
+  	width:80px ;
+  	height:30px;
+    border: 4px solid #73AD21;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+a.button2{
+	position: relative;
+	top: 0px;
+    right:0;
+    text-align:center;
+    left:330px;
+  	width:84px ;
+  	height:34px;
+    border: 4px solid #73AD21;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+a.button3{
+	position: relative;
+	top: -200px;
+    right:0;
+    text-align:center;
+    left:700px;
+  	width:84px ;
+  	height:34px;
+    border: 4px solid #73AD21;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+a.comlog{
+   position:fixed;
+  top: 100px;
+    right:0;
+    text-align:center;
+    left:900px;
+    width:84px ;
+    height:34px;
+    border: 4px solid #73AD21;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+a.comhom{
+  position:fixed;
+  top: 100px;
+    right:0;
+    text-align:center;
+    left:800px;
+    width:84px ;
+    height:34px;
+    border: 4px solid #73AD21;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+a.button4{
+	position: relative;
+	 top: 80px;
+    right:0;
+    text-align:center;
+    left:147px;
+  	width:84px ;
+  	height:34px;
+    border: 4px solid #73AD21;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+a.sendhome{
+  position: relative;
+   top: 80px;
+    right:0;
+    text-align:center;
+    left:500px;
+    width:84px ;
+    height:34px;
+    border: 4px solid #73AD21;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+div.view{
+  background-color:red;
+}
+

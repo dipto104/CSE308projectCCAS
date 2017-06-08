@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="sendcom.css" rel="stylesheet" type="text/css" />	
+	</head>
+	<body>
+		<h1 id="para">Central Criminal Administration System</h1>
+		<h3 id ="conf">User Complaint</h3>
+		<form action="complain2.php" method="post"  enctype="multipart/form-data">
+					<div id="formWrapper">
+					<label for="fam_name">Suspect     Name : </label>
+					<textarea name="susname" rows="3" cols="30"></textarea>
+					 <label for="people_count">Area of Incident: </label>
+					<textarea name="area" rows="3" cols="30"></textarea>
+					<label for="people_count">Type of Incident: </label>
+					
+						<select name="inci">
+							<option value="Robery">Robery</option>
+							<option value="Thief">Thief</option>
+							<option value="Corruption">Corruption</option>
+							<option value="Reckless Driving">Reckless Driving</option>
+							<option value="Murder">Murder</option>
+							<option value="Others">Others</option>
+						</select>
+					<p id="imag">ADD Image: </p>
+					<input type="file" name="imageUpload1">
+					<input type="submit" name="register1" value="Submit"/>
+					</div>
+					</form>
+					<a href="Login.html" class="comlog">Logout</a>
+					<a href="pro.html" class="comhom">Home</a>
+	</body>
+</html>
